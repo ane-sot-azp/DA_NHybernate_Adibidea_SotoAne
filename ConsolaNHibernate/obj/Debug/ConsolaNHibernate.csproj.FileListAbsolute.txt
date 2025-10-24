@@ -104,3 +104,7 @@ C:\Users\anere\Downloads\9-ConsolaNHibernateAdibidea\ConsolaNHibernate\ConsolaNH
 C:\Users\anere\Downloads\9-ConsolaNHibernateAdibidea\ConsolaNHibernate\ConsolaNHibernate\obj\Debug\ConsolaN.055CE797.Up2Date
 C:\Users\anere\Downloads\9-ConsolaNHibernateAdibidea\ConsolaNHibernate\ConsolaNHibernate\obj\Debug\ConsolaNHibernate.exe
 C:\Users\anere\Downloads\9-ConsolaNHibernateAdibidea\ConsolaNHibernate\ConsolaNHibernate\obj\Debug\ConsolaNHibernate.pdb
+C:\Users\anere\OneDrive - Goierri Eskola\25-26\A_DATU ATZIPENA\1_EB\ENTREGAK\DA_NHybernate_Adibidea_SotoAne\ConsolaNHibernate\obj\Debug\ConsolaNHibernate.csproj.AssemblyReference.cache
+C:\Users\anere\OneDrive - Goierri Eskola\25-26\A_DATU ATZIPENA\1_EB\ENTREGAK\DA_NHybernate_Adibidea_SotoAne\ConsolaNHibernate\obj\Debug\ConsolaNHibernate.csproj.CoreCompileInputs.cache
+C:\Users\anere\OneDrive - Goierri Eskola\25-26\A_DATU ATZIPENA\1_EB\ENTREGAK\DA_NHybernate_Adibidea_SotoAne\ConsolaNHibernate\obj\Debug\ConsolaNHibernate.exe
+C:\Users\anere\OneDrive - Goierri Eskola\25-26\A_DATU ATZIPENA\1_EB\ENTREGAK\DA_NHybernate_Adibidea_SotoAne\ConsolaNHibernate\obj\Debug\ConsolaNHibernate.pdb
