@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ConsolaNHibernate",
-    "\\ConsolaNHibernate\\Mapeoak",
-    "\\ConsolaNHibernate\\Modeloak"
+    "\\ConsolaNHibernate"
   ],
-  "SelectedNode": "\\ConsolaNHibernate\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

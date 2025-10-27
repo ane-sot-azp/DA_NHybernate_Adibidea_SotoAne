@@ -37,14 +37,15 @@ namespace ConsolaNHibernate
                     MySQLConfiguration.Standard
                         .ConnectionString(cs => cs
                             .Server("localhost")
-                            .Database("datuatzipenakariketak")
+                            .Database("entrega2")
                             .Username("root")
-                            .Password("1MG2024")
+                            .Password("1MG32025")
                         )
                 )
                 .Mappings(m =>
-                    m.FluentMappings.AddFromAssemblyOf<UsuarioMap>())
-                //.ExposeConfiguration(cfg => new SchemaExport(cfg).Create(false, true)) // DB-an sortu nahi baduzu taula
+                    m.FluentMappings.AddFromAssemblyOf<ErabiltzaileaMap>())
+                .ExposeConfiguration(cfg => new SchemaExport(cfg).Create(false, true)) // DROP and CREATE egiten du
+                //.ExposeConfiguration(cfg => new SchemaUpdate(cfg).Execute(false, true)) // Soilik existitzen ez bada sortzen du
                 .BuildSessionFactory();
         }
 
